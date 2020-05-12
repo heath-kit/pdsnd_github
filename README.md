@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+5/10/2020
 
 ### Project Title
-Replace the Project Title
+Udacity Python project for the Programming for Data Science Nano Degree.
 
 ### Description
-Describe what your project is about and what it does
+The project analyzes data from bikeshare organizations in 3 cities. It spits out
+an analysis of ridership data and then asks the user if they would like to see
+the raw data
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+none
