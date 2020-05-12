@@ -23,6 +23,10 @@ The the program spits out the following stats:
 * Displays statistics on the total and average trip duration.
 * Displays demographic statistics on bikeshare users.
 
+Finally the program asks the user if they want to display some raw data from
+their filtered file. It loops displaying 5 rows at a time after asking the
+user if they want to display more.
+
 ### Files used
 bikeshare.py
 
